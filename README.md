@@ -76,13 +76,12 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://github.com/god-ctrl
+[course]: https://github.com/god-ctrl
 [twitter]:https://twitter.com/Nilotpa09443151
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/nilotpaldas984/?hl=en
 [linkedin]: https://www.linkedin.com/in/nilotpal-das-842b071a1/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://github.com/god-ctrl
+[jsplaylist]: https://github.com/god-ctrl
+[cssplaylist]: https://github.com/god-ctrl
