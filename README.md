@@ -11,9 +11,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and cycling
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350"/>](https://open.spotify.com/user/v2hbt4ssjpombapk2mzo0yu7s)
 ### Connect with me:
 
 
@@ -58,12 +56,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=god-ctrl&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://github.com/god-ctrl
 [course]: https://github.com/god-ctrl
